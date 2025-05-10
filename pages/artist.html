@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    <title>Top New Artists</title>
+    <link rel="icon" href="../img/fav.png" type="image/png">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+
+<body>
+<header>
+    <h1 class="heading">
+        🔥 <span id="artist-name"></span> <span class="top">YouTube&nbsp;</span>播放量 Top10 排行榜
+        (<span id="current-date"></span>)
+    </h1>
+</header>
+
+<table>
+    <thead>
+        <tr>
+            <th>序号</th>
+            <th>歌曲</th>
+            <th>播放量</th>
+        </tr>
+    </thead>
+    <tbody id="song-list"></tbody>
+</table>
+
+<div class="nomination-container">
+    <h2>来吐槽下</h2>
+    <form id="nominationForm">
+        <label for="email">想说的话:</label>
+        <textarea id="comment" name="comment" placeholder="建议及意见"></textarea>
+        <button type="submit">提交</button>
+    </form>
+</div>
+
+<script src="../js/artist.js"></script>
+<script src="../js/custom.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    <title>Top New Artists</title>
+    <link rel="icon" href="../img/fav.jpg" type="image/png">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+
+<body>
+<header>
+    <h1 class="heading">
+        🔥 新生代歌手 <span class="highlight">YouTube&nbsp;</span>播放量排行榜
+        (<span id="current-date"></span>)
+    </h1>
+</header>
+
+<main>
+    <p class="explain">本榜单依据 YouTube 平台播放数据生成，榜单中的
+        <span class="highlight">Top10 播放量</span>
+        为每位歌手播放量最高的前十个视频的播放量总和。榜单数据于北京时间（UTC+8）每日08:00更新。
+        新生代歌手定义为
+        <span class="highlight">出道10年以内</span> 或 年龄在
+        <span class="highlight">30岁</span> 以内的歌手。
+    </p>
+
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div class="ranking-buttons">
+            <!-- You can set one of them as active by default -->
+            <button onclick="switchRanking('day_trend', this)">日榜</button>
+            <button onclick="switchRanking('week_trend', this)">周榜</button>
+            <button onclick="switchRanking('month_trend', this)">月榜</button>
+            <button class="active" onclick="switchRanking('total_views', this)">总榜</button>
+        </div>
+    
+        <div class="ranking-buttons gender-buttons">
+            <button onclick="switchGender('male', this)">男歌手</button>
+            <button onclick="switchGender('female', this)">女歌手</button>
+            <button class="active" onclick="switchGender('all', this)">全部</button>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <table id="new_artist_chart">
+            <thead>
+                <tr>
+                    <th>排名</th>
+                    <th>封面</th>
+                    <th>热门歌曲</th>
+                    <th>歌手</th>
+                    <th>Top10 播放量</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <!-- 规则说明 -->
+    <div class="rules" style="font-size: 14px; color: #888; margin-top: 20px;">
+        <strong>规则说明：</strong>
+        <ol>
+            <li>由于 YouTube 搜索规则的限制，API 与网页端的结果可能不同，因此部分歌曲可能未被统计，数据仅供参考。</li>
+            <li>部分视频可能因下架等原因导致播放量比之前减少，敬请理解。</li>
+        </ol>
+    </div>
+
+    <div class="nomination-container">
+        <h2>新生代歌手推荐</h2>
+        <form id="nominationForm">
+            <label for="artistName">歌手姓名:</label>
+            <input type="text" id="artistName" name="artistName" placeholder="如：单依纯">
+
+            <label for="email">想说的话:</label>
+            <textarea id="comment" name="comment" placeholder="建议及意见"></textarea>
+            <button type="submit">提交</button>
+        </form>
+    </div>
+
+</main>
+
+<footer>
+    <p>© 2025 Top New Artists Board</p>
+</footer>
+
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script src="../js/custom.js"></script>
+
+</body>
+</html>

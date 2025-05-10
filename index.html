@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    <title>Top Songs</title>
+    <link rel="icon" href="img/fav.jpg" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+
+<body>
+<header>
+    <h1 class="heading">
+        🔥 热门歌曲 <span class="highlight">YouTube&nbsp;</span>播放量排行榜
+    </h1>
+</header>
+
+<main>
+    <p class="explain">
+        本榜单依据 YouTube 平台播放数据生成。榜单数据于北京时间（UTC+8）每日08:00更新。点击以下分类查看详细榜单：
+    </p>
+
+    <section>
+        <h2>热门歌手排行榜</h2>
+        <div class="card-grid">
+            <a href="pages/new_artists.html" class="card card-green">
+                <h3>新生代歌手</h3>
+                <p>出道 <span class="highlight">10年</span> 以内 或 年龄在 <span class="highlight">30岁</span> 以内</p>
+            </a>
+
+            <a href="pages/mid_artists.html" class="card card-blue">
+                <h3>中生代歌手</h3>
+                <p>出道 <span class="highlight">10-30年</span> 或 年龄在 <span class="highlight">30-50岁</span></p>
+            </a>
+        </div>
+    </section>
+
+    <section>
+        <h2>热门新歌排行榜</h2>
+        <div class="card-grid">
+            <a href="pages/newsongs.html" class="card card-purple">
+                <h3>热门新歌</h3>
+                <p>发行时间在过去 <span class="highlight">12个月</span> 的歌曲会被收入统计。</p>
+            </a>
+            <a href="pages/oldsongs.html" class="card card-brown">
+                <h3>经典老歌</h3>
+                <p>发行时间在过去 <span class="highlight">30年</span> 的歌曲会被收入统计。</p>
+            </a>
+
+        </div>
+    </section>
+
+    <section>
+        <h2>热门综艺歌曲排行榜</h2>
+        <div class="card-grid">
+            <a href="pages/singer2025.html" class="card card-orange">
+                <h3>我是歌手 2025</h3>
+                <p>热门综艺歌曲排行榜</p>
+            </a>
+
+            <a href="pages/voice2025.html" class="card card-pink">
+                <h3>天赐的声音 2025</h3>
+                <p>热门综艺歌曲排行榜</p>
+            </a>
+        </div>
+    </section>
+
+
+    <div class="nomination-container">
+        <h2>内容推荐</h2>
+        <form id="nominationForm">
+            <label for="artistName">节目名称:</label>
+            <input type="text" id="artistName" name="artistName" placeholder="如：时光音乐会">
+
+            <label for="email">想说的话:</label>
+            <textarea id="comment" name="comment" placeholder="推荐理由"></textarea>
+            <button type="submit">提交</button>
+        </form>
+    </div>
+
+</main>
+
+<footer>
+    <p>© 2025 Top Songs Board</p>
+</footer>
+
+</body>
+</html>
