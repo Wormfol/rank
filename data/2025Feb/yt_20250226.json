@@ -1,0 +1,810 @@
+[
+    {
+        "artist": "单依纯",
+        "videos": [
+            {
+                "video_id": "bG563p_moiE",
+                "title": "愛我的時候",
+                "upload_date": "2021-05-18T12:00:30Z",
+                "views": 31355060,
+                "comments": 2024,
+                "likes": 102208,
+                "duration": "PT3M43S"
+            },
+            {
+                "video_id": "40iCGaUhTbE",
+                "title": "如果爱忘了",
+                "upload_date": "2024-02-17T07:45:00Z",
+                "views": 18698576,
+                "comments": 1206,
+                "likes": 57275,
+                "duration": "PT3M45S"
+            },
+            {
+                "video_id": "7bs_NZYtFVU",
+                "title": "如果爱忘了",
+                "upload_date": "2024-02-18T04:00:04Z",
+                "views": 16760512,
+                "comments": 777,
+                "likes": 62662,
+                "duration": "PT3M50S"
+            },
+            {
+                "video_id": "UQjN0cS_Mno",
+                "title": "下雨天",
+                "upload_date": "2021-02-07T07:28:41Z",
+                "views": 16619301,
+                "comments": 2445,
+                "likes": 55837,
+                "duration": "PT4M36S"
+            },
+            {
+                "video_id": "SRy1qDusFoU",
+                "title": "你就不要想起我",
+                "upload_date": "2021-02-14T14:03:45Z",
+                "views": 16442347,
+                "comments": 2005,
+                "likes": 65031,
+                "duration": "PT4M26S"
+            },
+            {
+                "video_id": "fqBbnUZbQjc",
+                "title": "如果爱忘了",
+                "upload_date": "2024-02-22T12:00:37Z",
+                "views": 14108749,
+                "comments": 516,
+                "likes": 40998,
+                "duration": "PT4M4S"
+            },
+            {
+                "video_id": "1YCqSoZHBK8",
+                "title": "如果愛忘了",
+                "upload_date": "2024-03-19T04:57:21Z",
+                "views": 11304447,
+                "comments": 316,
+                "likes": 36321,
+                "duration": "PT4M6S"
+            },
+            {
+                "video_id": "WZ82g3G7w_M",
+                "title": "如果愛忘了",
+                "upload_date": "2024-02-21T11:30:13Z",
+                "views": 9873193,
+                "comments": 187,
+                "likes": 26179,
+                "duration": "PT4M6S"
+            },
+            {
+                "video_id": "mQstYKoZ5O8",
+                "title": "續寫",
+                "upload_date": "2022-06-09T09:10:28Z",
+                "views": 8602264,
+                "comments": 816,
+                "likes": 35267,
+                "duration": "PT3M41S"
+            },
+            {
+                "video_id": "tF3Ie4chm_g",
+                "title": "續寫",
+                "upload_date": "2021-09-06T09:45:01Z",
+                "views": 8547725,
+                "comments": 811,
+                "likes": 25060,
+                "duration": "PT3M50S"
+            }
+        ],
+        "total_views": 152312174,
+        "total_comments": 11103,
+        "total_likes": 506838,
+        "total_results_num": 781845,
+        "trend1": 265726,
+        "trend2": 2190
+    },
+    {
+        "artist": "黄霄云",
+        "videos": [
+            {
+                "video_id": "O2q59LClA7Q",
+                "title": "Sad Sometimes",
+                "upload_date": "2019-09-18T17:00:04Z",
+                "views": 28888351,
+                "comments": 3752,
+                "likes": 313876,
+                "duration": "PT3M20S"
+            },
+            {
+                "video_id": "VoSVmrwlvMU",
+                "title": "左手指月",
+                "upload_date": "2018-12-24T05:40:31Z",
+                "views": 22408383,
+                "comments": 5071,
+                "likes": 148356,
+                "duration": "PT3M"
+            },
+            {
+                "video_id": "TLrRtCaDoOY",
+                "title": "還可以愛嗎",
+                "upload_date": "2018-09-24T11:10:07Z",
+                "views": 13556978,
+                "comments": 889,
+                "likes": 47049,
+                "duration": "PT4M57S"
+            },
+            {
+                "video_id": "4Sf9aAoLqdc",
+                "title": "Sad Sometimes",
+                "upload_date": "2020-07-08T10:15:00Z",
+                "views": 12393484,
+                "comments": 958,
+                "likes": 69975,
+                "duration": "PT3M23S"
+            },
+            {
+                "video_id": "17Xmu99vP4c",
+                "title": "星辰大海",
+                "upload_date": "2021-02-05T11:00:12Z",
+                "views": 11854192,
+                "comments": 1919,
+                "likes": 74960,
+                "duration": "PT3M21S"
+            },
+            {
+                "video_id": "cuHLiGO2akU",
+                "title": "天下无双",
+                "upload_date": "2019-01-02T07:53:21Z",
+                "views": 10158880,
+                "comments": 2960,
+                "likes": 62667,
+                "duration": "PT4M32S"
+            },
+            {
+                "video_id": "mFM9WXvNLe8",
+                "title": "星辰大海",
+                "upload_date": "2021-01-15T10:00:14Z",
+                "views": 6506715,
+                "comments": 1163,
+                "likes": 35303,
+                "duration": "PT3M28S"
+            },
+            {
+                "video_id": "cK-JLmattBs",
+                "title": "蝴蝶夫人",
+                "upload_date": "2022-05-23T11:30:08Z",
+                "views": 5286496,
+                "comments": 333,
+                "likes": 16299,
+                "duration": "PT3M20S"
+            },
+            {
+                "video_id": "OrJ3z2PX84w",
+                "title": "星辰大海",
+                "upload_date": "2021-03-01T10:00:08Z",
+                "views": 4831544,
+                "comments": 173,
+                "likes": 19519,
+                "duration": "PT5M17S"
+            },
+            {
+                "video_id": "PdYhOvPTzgY",
+                "title": "Sad Sometimes",
+                "upload_date": "2019-09-20T04:28:32Z",
+                "views": 3904691,
+                "comments": 876,
+                "likes": 52106,
+                "duration": "PT3M20S"
+            }
+        ],
+        "total_views": 119789714,
+        "total_comments": 18094,
+        "total_likes": 840110,
+        "total_results_num": 643030,
+        "trend1": 48385,
+        "trend2": 3250
+    },
+    {
+        "artist": "姚晓棠",
+        "videos": [
+            {
+                "video_id": "ULYksmjBwzY",
+                "title": "最后一页",
+                "upload_date": "2024-04-26T13:59:34Z",
+                "views": 24507143,
+                "comments": 1083,
+                "likes": 58356,
+                "duration": "PT4M35S"
+            },
+            {
+                "video_id": "o0TyNAdsKZ8",
+                "title": "妥协",
+                "upload_date": "2024-06-14T14:36:05Z",
+                "views": 10150763,
+                "comments": 418,
+                "likes": 22227,
+                "duration": "PT4M2S"
+            },
+            {
+                "video_id": "iwOE4f2x2AU",
+                "title": "我会好好的",
+                "upload_date": "2024-05-03T14:54:51Z",
+                "views": 7092836,
+                "comments": 953,
+                "likes": 16681,
+                "duration": "PT4M39S"
+            },
+            {
+                "video_id": "b0nv-NZj2fE",
+                "title": "最后一页",
+                "upload_date": "2024-05-07T14:51:34Z",
+                "views": 6556212,
+                "comments": 0,
+                "likes": 19986,
+                "duration": "PT3M44S"
+            },
+            {
+                "video_id": "uwY63fqyBSs",
+                "title": "错的人",
+                "upload_date": "2024-06-28T14:31:36Z",
+                "views": 6446507,
+                "comments": 953,
+                "likes": 17633,
+                "duration": "PT4M54S"
+            },
+            {
+                "video_id": "FW_6AVvtHFQ",
+                "title": "虹之间",
+                "upload_date": "2024-05-17T14:20:28Z",
+                "views": 6389860,
+                "comments": 202,
+                "likes": 11853,
+                "duration": "PT3M24S"
+            },
+            {
+                "video_id": "IAWVOxtIuGA",
+                "title": "天若有情",
+                "upload_date": "2024-05-10T14:45:44Z",
+                "views": 4989262,
+                "comments": 205,
+                "likes": 11447,
+                "duration": "PT4M10S"
+            },
+            {
+                "video_id": "MpgP2aFXdfs",
+                "title": "会开花的云",
+                "upload_date": "2024-07-05T15:54:05Z",
+                "views": 4351364,
+                "comments": 317,
+                "likes": 15729,
+                "duration": "PT4M"
+            },
+            {
+                "video_id": "15dxI9BPxa4",
+                "title": "最后一页",
+                "upload_date": "2024-04-28T12:00:01Z",
+                "views": 3512641,
+                "comments": 85,
+                "likes": 5619,
+                "duration": "PT4M40S"
+            },
+            {
+                "video_id": "3NJ1PvWXB6E",
+                "title": "最后一页",
+                "upload_date": "2024-07-12T11:32:02Z",
+                "views": 3234182,
+                "comments": 0,
+                "likes": 6461,
+                "duration": "PT4M41S"
+            }
+        ],
+        "total_views": 77230770,
+        "total_comments": 4216,
+        "total_likes": 185992,
+        "total_results_num": 138036,
+        "trend1": 303850,
+        "trend2": 2217
+    },
+    {
+        "artist": "黄子弘凡",
+        "videos": [
+            {
+                "video_id": "UjPVe-9awKM",
+                "title": "一起走过的日子",
+                "upload_date": "2024-12-06T08:41:12Z",
+                "views": 1420463,
+                "comments": 181,
+                "likes": 4652,
+                "duration": "PT3M39S"
+            },
+            {
+                "video_id": "MkuiSlcJwtg",
+                "title": "库斯克邮车",
+                "upload_date": "2018-12-29T15:13:48Z",
+                "views": 913942,
+                "comments": 381,
+                "likes": 4065,
+                "duration": "PT4M23S"
+            },
+            {
+                "video_id": "YB6wYo8yipE",
+                "title": "抒情曲",
+                "upload_date": "2024-08-20T13:00:22Z",
+                "views": 859730,
+                "comments": 1991,
+                "likes": 10700,
+                "duration": "PT2H16M1S"
+            },
+            {
+                "video_id": "TV2bbeRBYrg",
+                "title": "毒药",
+                "upload_date": "2024-06-14T15:03:10Z",
+                "views": 677865,
+                "comments": 102,
+                "likes": 2704,
+                "duration": "PT4M2S"
+            },
+            {
+                "video_id": "pTbeaorZInQ",
+                "title": "无赖",
+                "upload_date": "2025-01-08T07:11:29Z",
+                "views": 601532,
+                "comments": 93,
+                "likes": 1965,
+                "duration": "PT4M30S"
+            },
+            {
+                "video_id": "jRlfVTBpPiQ",
+                "title": "Melody Journey",
+                "upload_date": "2024-08-27T13:00:07Z",
+                "views": 549681,
+                "comments": 1308,
+                "likes": 6286,
+                "duration": "PT2H13M23S"
+            },
+            {
+                "video_id": "KGbfyhKD6yw",
+                "title": "DO U",
+                "upload_date": "2024-08-20T13:00:07Z",
+                "views": 527085,
+                "comments": 185,
+                "likes": 4010,
+                "duration": "PT3M39S"
+            },
+            {
+                "video_id": "YtaXeacGtN0",
+                "title": "青火",
+                "upload_date": "2020-06-18T12:39:37Z",
+                "views": 489351,
+                "comments": 57,
+                "likes": 2284,
+                "duration": "PT4M41S"
+            },
+            {
+                "video_id": "loirjuPIwl4",
+                "title": "暴风女神Lorelei",
+                "upload_date": "2024-12-06T08:41:08Z",
+                "views": 444681,
+                "comments": 156,
+                "likes": 1873,
+                "duration": "PT4M"
+            },
+            {
+                "video_id": "KA63HDFxeL4",
+                "title": "你好, 星期六",
+                "upload_date": "2025-01-06T11:30:06Z",
+                "views": 332852,
+                "comments": 488,
+                "likes": 3673,
+                "duration": "PT1H29M"
+            }
+        ],
+        "total_views": 6817182,
+        "total_comments": 4942,
+        "total_likes": 42212,
+        "total_results_num": 101870,
+        "trend1": 45567,
+        "trend2": -268
+    },
+    {
+        "artist": "希林娜依高",
+        "videos": [
+            {
+                "video_id": "YtkgUVGm_n8",
+                "title": "慢冷",
+                "upload_date": "2023-04-28T15:21:34Z",
+                "views": 15310188,
+                "comments": 680,
+                "likes": 31574,
+                "duration": "PT5M8S"
+            },
+            {
+                "video_id": "r90-f0677xA",
+                "title": "男孩",
+                "upload_date": "2017-09-18T16:58:52Z",
+                "views": 7011167,
+                "comments": 761,
+                "likes": 23776,
+                "duration": "PT4M34S"
+            },
+            {
+                "video_id": "ld8aaSWAnmc",
+                "title": "I Like You",
+                "upload_date": "2020-05-03T18:12:05Z",
+                "views": 5800987,
+                "comments": 2167,
+                "likes": 116287,
+                "duration": "PT1M57S"
+            },
+            {
+                "video_id": "IAWVOxtIuGA",
+                "title": "天若有情",
+                "upload_date": "2024-05-10T14:45:44Z",
+                "views": 4989262,
+                "comments": 205,
+                "likes": 11447,
+                "duration": "PT4M10S"
+            },
+            {
+                "video_id": "F0sdSKEafao",
+                "title": "Someone You Loved",
+                "upload_date": "2020-05-08T10:31:53Z",
+                "views": 4374157,
+                "comments": 720,
+                "likes": 96630,
+                "duration": "PT1M16S"
+            },
+            {
+                "video_id": "yVP9jSJtITM",
+                "title": "她来听我的演唱会",
+                "upload_date": "2017-09-18T16:58:27Z",
+                "views": 4122365,
+                "comments": 412,
+                "likes": 17374,
+                "duration": "PT4M41S"
+            },
+            {
+                "video_id": "Xr_-Mr4ns0w",
+                "title": "Keep Running",
+                "upload_date": "2022-07-08T14:56:46Z",
+                "views": 3314788,
+                "comments": 1761,
+                "likes": 23426,
+                "duration": "PT1H54M21S"
+            },
+            {
+                "video_id": "Kv35G7r-Cxg",
+                "title": "怎么会忘记你",
+                "upload_date": "2023-06-02T14:28:46Z",
+                "views": 3112324,
+                "comments": 175,
+                "likes": 8644,
+                "duration": "PT4M23S"
+            },
+            {
+                "video_id": "JMn2WLF6SfA",
+                "title": "阿拉斯加海湾",
+                "upload_date": "2023-07-07T14:21:21Z",
+                "views": 2024304,
+                "comments": 177,
+                "likes": 7301,
+                "duration": "PT4M34S"
+            },
+            {
+                "video_id": "PndY1Xl37dU",
+                "title": "负重一万斤长大",
+                "upload_date": "2023-06-30T13:29:46Z",
+                "views": 1664452,
+                "comments": 200,
+                "likes": 8220,
+                "duration": "PT5M16S"
+            }
+        ],
+        "total_views": 51723994,
+        "total_comments": 7258,
+        "total_likes": 344679,
+        "total_results_num": 710729,
+        "trend1": -7784386,
+        "trend2": 767
+    },
+    {
+        "artist": "毛不易",
+        "videos": [
+            {
+                "video_id": "dDV36GmFP20",
+                "title": "不染",
+                "upload_date": "2018-04-16T08:59:23Z",
+                "views": 31704492,
+                "comments": 3011,
+                "likes": 93990,
+                "duration": "PT5M26S"
+            },
+            {
+                "video_id": "G306LT0p9FY",
+                "title": "不染",
+                "upload_date": "2018-03-26T11:32:43Z",
+                "views": 18610409,
+                "comments": 1284,
+                "likes": 61861,
+                "duration": "PT5M27S"
+            },
+            {
+                "video_id": "EZxVmhM6UpE",
+                "title": "突然好想你",
+                "upload_date": "2020-05-31T14:26:23Z",
+                "views": 16052190,
+                "comments": 1717,
+                "likes": 85363,
+                "duration": "PT4M34S"
+            },
+            {
+                "video_id": "lMhxC5eAxfk",
+                "title": "Lost in ME 着迷",
+                "upload_date": "2020-06-21T12:17:25Z",
+                "views": 15124855,
+                "comments": 9796,
+                "likes": 209116,
+                "duration": "PT3M17S"
+            },
+            {
+                "video_id": "vqbh0h6kquQ",
+                "title": "不染",
+                "upload_date": "2019-10-05T06:41:48Z",
+                "views": 11547705,
+                "comments": 140,
+                "likes": 39630,
+                "duration": "PT5M26S"
+            },
+            {
+                "video_id": "JYtK8sLOh2Y",
+                "title": "梅香如故",
+                "upload_date": "2018-08-24T04:30:02Z",
+                "views": 8677786,
+                "comments": 635,
+                "likes": 26374,
+                "duration": "PT4M3S"
+            },
+            {
+                "video_id": "B_iNFLdcd2s",
+                "title": "Miss Freak",
+                "upload_date": "2020-06-21T12:17:28Z",
+                "views": 7830322,
+                "comments": 7308,
+                "likes": 102823,
+                "duration": "PT4M26S"
+            },
+            {
+                "video_id": "_SUwUaP14Gs",
+                "title": "像我这样的人",
+                "upload_date": "2018-12-21T14:45:14Z",
+                "views": 6549862,
+                "comments": 2557,
+                "likes": 25271,
+                "duration": "PT5M20S"
+            },
+            {
+                "video_id": "ju8zBhcT2EI",
+                "title": "Poem 一步成诗",
+                "upload_date": "2020-05-31T15:38:38Z",
+                "views": 6334513,
+                "comments": 4371,
+                "likes": 93758,
+                "duration": "PT4M43S"
+            },
+            {
+                "video_id": "5T3unhDKXaU",
+                "title": "盛夏",
+                "upload_date": "2017-09-27T03:11:34Z",
+                "views": 6042609,
+                "comments": 3038,
+                "likes": 40338,
+                "duration": "PT8M31S"
+            }
+        ],
+        "total_views": 128474743,
+        "total_comments": 33857,
+        "total_likes": 778524,
+        "total_results_num": 1000000,
+        "trend1": 39129,
+        "trend2": 0
+    },
+    {
+        "artist": "王源",
+        "videos": [
+            {
+                "video_id": "IVxTjRP869o",
+                "title": "王牌对王牌",
+                "upload_date": "2017-01-20T17:10:57Z",
+                "views": 8952261,
+                "comments": 5231,
+                "likes": 59420,
+                "duration": "PT1H36M57S"
+            },
+            {
+                "video_id": "TbeUMFS3gEA",
+                "title": "不得了",
+                "upload_date": "2017-01-23T15:41:07Z",
+                "views": 3617789,
+                "comments": 1331,
+                "likes": 28269,
+                "duration": "PT9M27S"
+            },
+            {
+                "video_id": "DL3dyX_wCps",
+                "title": "王牌对王牌2",
+                "upload_date": "2017-02-13T18:10:52Z",
+                "views": 2818039,
+                "comments": 787,
+                "likes": 20625,
+                "duration": "PT21M45S"
+            },
+            {
+                "video_id": "7rZL5gy8-i0",
+                "title": "王牌对王牌3",
+                "upload_date": "2018-02-02T17:14:24Z",
+                "views": 2503616,
+                "comments": 2557,
+                "likes": 12140,
+                "duration": "PT1H28M12S"
+            },
+            {
+                "video_id": "qSVlnlblMx8",
+                "title": "我们的时光",
+                "upload_date": "2018-01-15T13:46:19Z",
+                "views": 2320651,
+                "comments": 1266,
+                "likes": 26457,
+                "duration": "PT3M51S"
+            },
+            {
+                "video_id": "nK5lym2S3uY",
+                "title": "骄傲",
+                "upload_date": "2018-05-05T06:33:25Z",
+                "views": 2196269,
+                "comments": 751,
+                "likes": 18243,
+                "duration": "PT4M16S"
+            },
+            {
+                "video_id": "xUps49gv7ak",
+                "title": "王牌对王牌3",
+                "upload_date": "2018-03-23T17:41:50Z",
+                "views": 1919571,
+                "comments": 1241,
+                "likes": 6148,
+                "duration": "PT1H42M3S"
+            },
+            {
+                "video_id": "xjvcCUR8_aA",
+                "title": "風吹的願望",
+                "upload_date": "2015-01-07T08:53:41Z",
+                "views": 1818018,
+                "comments": 119,
+                "likes": 5390,
+                "duration": "PT4M18S"
+            },
+            {
+                "video_id": "5NbF7bT5EYg",
+                "title": "王牌对王牌3",
+                "upload_date": "2018-02-19T16:19:42Z",
+                "views": 1555613,
+                "comments": 1281,
+                "likes": 4724,
+                "duration": "PT1H55M53S"
+            },
+            {
+                "video_id": "I0dyDXb00_A",
+                "title": "王牌对王牌3",
+                "upload_date": "2018-03-09T22:28:50Z",
+                "views": 1478395,
+                "comments": 929,
+                "likes": 4938,
+                "duration": "PT1H26M27S"
+            }
+        ],
+        "total_views": 29180222,
+        "total_comments": 15493,
+        "total_likes": 186354,
+        "total_results_num": 1000000,
+        "trend1": 3070,
+        "trend2": 0
+    },
+    {
+        "artist": "陈卓璇",
+        "videos": [
+            {
+                "video_id": "PZrXiWGWeIs",
+                "title": "爱笑的眼睛",
+                "upload_date": "2017-10-30T16:20:35Z",
+                "views": 16355634,
+                "comments": 1615,
+                "likes": 56590,
+                "duration": "PT4M7S"
+            },
+            {
+                "video_id": "I_haeWz-4Ag",
+                "title": "Wu Ji",
+                "upload_date": "2020-05-02T18:33:51Z",
+                "views": 4790552,
+                "comments": 2614,
+                "likes": 129975,
+                "duration": "PT2M16S"
+            },
+            {
+                "video_id": "UjLtOYXa3J4",
+                "title": "童话",
+                "upload_date": "2023-10-15T13:02:38Z",
+                "views": 3323145,
+                "comments": 469,
+                "likes": 15497,
+                "duration": "PT5M53S"
+            },
+            {
+                "video_id": "jJGkBC8Fghg",
+                "title": "知足",
+                "upload_date": "2023-03-31T04:01:55Z",
+                "views": 2802255,
+                "comments": 592,
+                "likes": 13456,
+                "duration": "PT5M16S"
+            },
+            {
+                "video_id": "c6Q5vND4xzM",
+                "title": "孤城",
+                "upload_date": "2019-11-15T16:05:20Z",
+                "views": 2592055,
+                "comments": 703,
+                "likes": 39802,
+                "duration": "PT3M43S"
+            },
+            {
+                "video_id": "T2ldY7Kp7aQ",
+                "title": "爱笑的眼睛",
+                "upload_date": "2021-06-01T12:00:10Z",
+                "views": 2257700,
+                "comments": 546,
+                "likes": 15237,
+                "duration": "PT15M36S"
+            },
+            {
+                "video_id": "AGgffBAPPa8",
+                "title": "Follow the Light",
+                "upload_date": "2021-06-24T02:30:30Z",
+                "views": 2229769,
+                "comments": 506,
+                "likes": 30899,
+                "duration": "PT2M29S"
+            },
+            {
+                "video_id": "3zCkcN6n3KE",
+                "title": "心愿便利贴",
+                "upload_date": "2023-03-21T07:30:01Z",
+                "views": 1879142,
+                "comments": 111,
+                "likes": 8064,
+                "duration": "PT2M54S"
+            },
+            {
+                "video_id": "Clg6EOKQslU",
+                "title": "连名带姓",
+                "upload_date": "2021-03-01T08:20:32Z",
+                "views": 1834286,
+                "comments": 264,
+                "likes": 7663,
+                "duration": "PT5M3S"
+            },
+            {
+                "video_id": "nJn0d05F19w",
+                "title": "勇气",
+                "upload_date": "2023-11-26T13:11:06Z",
+                "views": 1785387,
+                "comments": 181,
+                "likes": 6336,
+                "duration": "PT4M3S"
+            }
+        ],
+        "total_views": 39849925,
+        "total_comments": 7601,
+        "total_likes": 323519,
+        "total_results_num": 615731,
+        "trend1": 26408,
+        "trend2": -3442
+    }
+]
